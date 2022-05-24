@@ -1,0 +1,27 @@
+body {
+ 
+     background-color: #172348 ;
+    
+  }
+  p{
+    color: #F8F9F8;
+  }
+  .accents{
+      color:#7D7D7E;
+  }
+  h1,h2,h3,h4,h5,h6{
+    color:#b7b7ba;
+
+  }
+  .marginTextFoot{
+      margin-bottom:12px;
+  }
+  .marginEmailFoot{
+    margin-bottom:45px, !important;
+  }
+  .marginCopyFoot{
+    margin-top: 40px;
+
+  }
+
+ 
