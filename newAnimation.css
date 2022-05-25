@@ -98,7 +98,7 @@ label:hover :checked + .flip-card {
 
 .front p,
 .back .click {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 600;
 	margin-left:6px;
 	margin-right:6px;
@@ -153,19 +153,38 @@ hr {
 
 
 
+.homeR{
+	margin-left:120px;
+}
 
+.homeR2{
+	margin-left:125px;
+}
 
+.homeR4{
+	margin-left:90px;
+}
+.homeR5{
+	margin-left:140px;
+}
 
+.homeR6{
+	margin-left:90px;
+}
+.homeR7{
+	margin-left:50px;
+}
+.homeR8{
+	margin-left:110px;
+}
+.homeR9{
+	margin-left:90px;
+}
+ 
+.homeR10{
+	margin-left:115px;
+}
 
-
-/*Choose a language button */
-
-
-
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+.fM{
+	margin-left:20px;
 }
