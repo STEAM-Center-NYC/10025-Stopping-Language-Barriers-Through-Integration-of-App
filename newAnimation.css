@@ -150,3 +150,22 @@ hr {
 .dropL{
 	margin-left: 80px;
 }
+
+
+
+
+
+
+
+
+/*Choose a language button */
+
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
